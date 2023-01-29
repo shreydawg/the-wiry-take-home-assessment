@@ -19,20 +19,20 @@ to be able to evaluate the progress and grade.
 intuitiveness, time spent to place the order and ofcourse the execution :)
 - A customer is able to track the order/s. Please keep in mind that conveying appropriate error messages do count towards extra points.
 
-#### Milestones
+### Milestones
 
-Milestone #1 
+- Milestone #1 
  
  Design a backend database that caters to the business needs of order placement. The design should be extensible to future features.
 
-Milestone #2
+- Milestone #2
  
  Expose an API to interact with UI endpoints (eg., /get_order_status/<order_id>)
  
-Milestone #3
+- Milestone #3
 
  Wire the API and UI endpoints for an end to end order placement and retrieval path.
  
-#### Submitting your work
+###Submitting your work
 
 See instructions for submitting your work. 
